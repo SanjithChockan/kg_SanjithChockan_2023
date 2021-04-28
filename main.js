@@ -1,5 +1,4 @@
-
-var inputs = ["3", "25", "209"]
+var inputs = process.argv.slice(2);
 var phonetic = ["Zero","One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"]
 var output = []
 
